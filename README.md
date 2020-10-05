@@ -6,8 +6,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sagar0698&show_icons=true&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/sagar0698/dndcreator.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagar0698&repo=dndcreator.github.io" />
 </a>
@@ -16,6 +14,9 @@
 </a>
 <a href="https://github.com/sagar0698/GamerSearch.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagar0698&repo=GamerSearch.github.io" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact" />
 </a>
 
 <!--
