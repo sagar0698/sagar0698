@@ -4,11 +4,15 @@
 My name is Sagar Joshi and I'm a Senior at California State University, Fulleton majoring in Computer Sciecne.
 My goal is to become a software engineer.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sagar0698&show_icons=true&theme=radical&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sagar0698&show_icons=true&theme=radical&show_icons=true)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 <!--
