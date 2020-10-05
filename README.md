@@ -12,7 +12,7 @@ My goal is to become a software engineer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagar0698&repo=dndcreator.github.io" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=GamerSearch.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Data-Defense" />
 </a>
 
 <!--
