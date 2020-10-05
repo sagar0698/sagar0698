@@ -1,7 +1,7 @@
-# <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+# <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! My name is Sagar Joshi</p>
 
 
-### <p align="center">My name is Sagar Joshi and I'm a Senior at California State University, Fulleton majoring in Computer Sciecne.</p>
+### <p align="center">I'm a Senior at California State University, Fulleton majoring in Computer Science</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
