@@ -2,7 +2,7 @@
 
 ### <p align="center">I'm a Senior at California State University, Fulleton majoring in Computer Science</p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sagar0698&show_icons=true&theme=radical&show_icons=true&line_height=20)
+![github stats](https://github-readme-stats.vercel.app/api?username=sagar0698&show_icons=true&theme=radical&show_icons=true&line_height=200)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
