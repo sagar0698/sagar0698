@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### <p style="text-align: center;">My name is Sagar Joshi and I'm a Senior at California State University, Fulleton majoring in Computer Sciecne.</p>
+<p style="text-align: center;">My name is Sagar Joshi and I'm a Senior at California State University, Fulleton majoring in Computer Sciecne.</p>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sagar0698&show_icons=true&theme=radical&show_icons=true)
