@@ -8,11 +8,14 @@ My goal is to become a software engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sagar0698/dndcreator.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagar0698&repo=dndcreator.github.io" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/sagar0698/Data-Defense">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagar0698&repo=Data-Defense" />
+</a>
+<a href="https://github.com/sagar0698/GamerSearch.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagar0698&repo=GamerSearch.github.io" />
 </a>
 
 <!--
