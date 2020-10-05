@@ -9,7 +9,6 @@ My goal is to become a software engineer.
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0698&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </a>
 
 <!--
