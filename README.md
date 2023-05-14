@@ -1,6 +1,6 @@
 # <p align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sagar Joshi</p>
 
-### <p align="center">I graduated from California State University, Fullerton with a B.S. in Computer Science and currently work as a Information Technology Associate at Ingram Micro.</p>
+### <p align="center">I graduated from California State University, Fullerton with a B.S. in Computer Science and currently work at Ingram Micro.</p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sagar0698&show_icons=true&theme=radical&show_icons=true&count_private=true)
 
